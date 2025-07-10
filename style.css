@@ -1,0 +1,39 @@
+
+
+#head{
+    color: black;
+    background-color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div{
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 8px;
+
+}
+
+header{
+    color: darkslateblue;
+    background-color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display:flex;
+
+
+}
+   #academics{  
+    color: darkblue;
+    background-color: ghostwhite;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+   #academic.html{
+        color: darkorange;
+        background-color: darkviolet;
+        font-size: large;
+        font-family: fantasy;
+        font-weight: 600;
+        font-variant-emoji:smile;
+    }
+
